@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "This is my first code for jenkins"'
                 sh '''
-                    echo "DevOps Rocks!"
+                    echo "DevOps Rockssss!"
                     curl -v google.com
                 '''
             }
